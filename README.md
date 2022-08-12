@@ -1,6 +1,6 @@
 - 👋 olá meu nome é naira cristiane da silva pereira.
 - 👀 sou aluna do ensino médio integral do col.est. guilherme de almeida.
-- 🌱 minha escola está localizada em santa izabel do oeste, e pertence ao nucleo de  francisco beltrão.
+- 🌱 minha escola está localizada em santa izabel do oeste, e pertence ao núcleo de  francisco beltrão.
 - 💞️ participo da disciplina de pensamento computacional, ou seja iniciante na programação.
 
 <!---
